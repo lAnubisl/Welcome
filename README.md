@@ -5,7 +5,7 @@ We aim to create an ecosystem based on distributed networks to tackle the proble
 
 ## Why is this project useful?
 
-We see the huge fluctiations on demand and supply in the times of crisis and typical red tape is so slow to react for people. We wanted to create semi-autonomous governance system to fill this gap for the people by the people for liberty, equality and fraternity of humankind
+In time of crisis, we need to be able to react quickly and make sure that help is delivered as fast as possible and in a transparent way, and that supply chain does not get broken. We would like to create a semi-autonomous governance system to fill this gap for the people by the people for liberty, equality and fratenity of humankind.
 
 ## How do I get started?
 You are welcome to join the discussion in our telegram chat:
