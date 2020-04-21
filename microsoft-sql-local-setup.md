@@ -3,7 +3,7 @@
 
 ## Installation.
 
-#### For Windows:
+### For Windows:
 
 There are 2 ways to run MSSQL on Windows:
 
@@ -12,11 +12,11 @@ There are 2 ways to run MSSQL on Windows:
 -   Run MSSQL in Docker. Image description is here: [https://hub.docker.com/_/microsoft-mssql-server](https://hub.docker.com/_/microsoft-mssql-server)
     
 
-#### For MacOS:
+### For MacOS:
 
 Run MSSQL in Docker. Image description is here: [https://hub.docker.com/_/microsoft-mssql-server](https://hub.docker.com/_/microsoft-mssql-server)
 
-#### For Linux:
+### For Linux:
 
 Run MSSQL in Docker. Image description is here: [https://hub.docker.com/_/microsoft-mssql-server](https://hub.docker.com/_/microsoft-mssql-server)
 
