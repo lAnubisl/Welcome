@@ -29,3 +29,17 @@ Some projects require an additional environment variable called “ENV_INFO” w
 
 Each .NET Core project is HTTP API service. So it does not have a personal GUI to interact with. But you should be able to send requests to it and get responses using Swagger UI (general information about [Swagger UI](https://swagger.io/tools/swagger-ui/) which is hosted on [http|https]://[yourhost]:[port]/swagger/ui.  
 For example, default service url will be: http://localhost:5000/swagger/ui/
+
+### Step 5. Entity Framework migrations
+
+1. Commands to intstall ef
+```
+dotnet --version
+dotnet tool install --global dotnet-ef
+dotnet ef
+```
+2. Command to add migration
+```
+dotnet ef migrations add MigrationName --verbose
+```
+then to paste connection string, e.g. `Server=(localdb)\\MSSQLLocalDB,1433;Database=openmavn;User Id=localdb;Password=localdb;`
