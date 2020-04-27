@@ -63,23 +63,23 @@ Customers can redeem the voucher at the SME, or send it as a gift to a friend or
 
 ## **Technology Stack**
 
-**C#** -- the base backend programming language, the reason for selection is that most of our internal dev team has experience in it.
+**C#** - the base backend programming language, the reason for selection is that most of our internal dev team has experience in it.
 
-**C#, JavaScript, Angular 9** -- programming languages for frontend, the reason for selection: most of our internal development team has experience in it.
+**C#, JavaScript, Angular 9** - programming languages for frontend, the reason for selection: most of our internal development team has experience in it.
 
-**Flutter** -- programming language for mobile app. We choose it because of a single code base for both Android and iOS, which is actively supported by Google.
+**Flutter** - programming language for mobile app. We choose it because of a single code base for both Android and iOS, which is actively supported by Google.
 
-**Docker** -- modern technology for running isolated environments for components. The reason for selection: it’s de-facto an industry standard.
+**Docker** - modern technology for running isolated environments for components. The reason for selection: it’s de-facto an industry standard.
 
-**Kubernetes** -- DevOps tool that allows easy management of running dockerized components. The reason for selection: it’s de-facto an industry standard.
+**Kubernetes** - DevOps tool that allows easy management of running dockerized components. The reason for selection: it’s de-facto an industry standard.
 
-**Redis** -- in-memory key-value store, used as a cache. The reason for selection. It was a good choice for the distributed cache.
+**Redis** - in-memory key-value store, used as a cache. The reason for selection. It was a good choice for the distributed cache.
 
 **RabbitMq** used as a system event bus. The reason for selection: it has decent performance for small and medium-size systems, and has a low learning threshold.
 
-**Microsoft SQL Server** -- relational database.
+**Microsoft SQL Server** - relational database.
 
-**Azure storage service** -- used for storing logs, blob files and message queues, legacy reasons for selection. We are going to replace azure storage services with something else in future.
+**Azure storage service** - used for storing logs, blob files and message queues, legacy reasons for selection. We are going to replace azure storage services with something else in future.
 
 **Azure services such as KeyVault, Blockchain** used mostly for the blockchain part of the system. The reason for selection: the system is Azure dependant ATM, so these were easily accessible components that solved required needs.
 
@@ -87,7 +87,7 @@ Customers can redeem the voucher at the SME, or send it as a gift to a friend or
 
 **Firebase Cloud Messaging** used for sending push notifications to mobile, selected as a free option that has required support and Flutter plugins.
 
-**Entity Framework** -- .NET ORM, selected as the most familiar ORM for most Net developers.
+**Entity Framework** - .NET ORM, selected as the most familiar ORM for most Net developers.
 
 
 <a name="hosting-environment"/>
