@@ -208,9 +208,9 @@
 :----:|:--------:|:-------:|:------:|:--------:|:-------:|:---:
 ![test](https://github.com/OpenMAVN/MAVN.Service.Staking/workflows/test/badge.svg)|[![coverage](https://coveralls.io/repos/github/OpenMAVN/MAVN.Service.Staking/badge.svg?branch=master)](https://coveralls.io/github/OpenMAVN/MAVN.Service.Staking?branch=master)|![release](https://github.com/OpenMAVN/MAVN.Service.Staking/workflows/release/badge.svg)|[![nuget](https://img.shields.io/nuget/v/MAVN.Service.Staking.Client)](https://www.nuget.org/packages/MAVN.Service.Staking.Client/)|[![nuget](https://img.shields.io/nuget/v/MAVN.Service.Staking.Contract)](https://www.nuget.org/packages/MAVN.Service.Staking.Contract/)|[![docker](https://img.shields.io/docker/v/openmavn/staking-service?sort=semver)](https://https://hub.docker.com/r/openmavn/staking-service)|[![docker](https://img.shields.io/docker/v/openmavn/staking-job?sort=semver)](https://https://hub.docker.com/r/openmavn/staking-job)|
 ### [MAVN.Service.Tests](https://github.com/OpenMAVN/MAVN.Service.Tests)
- Test | Coverage | Release | Client | Contract | Service | Job 
-:----:|:--------:|:-------:|:------:|:--------:|:-------:|:---:
- - | - | - | - | - | - |
+| Test | Coverage | Release | Client | Contract | Service | Job |
+|:----:|:--------:|:-------:|:------:|:--------:|:-------:|:---:|
+| - | - | - | - | - | - |
 ### [MAVN.Service.Tiers](https://github.com/OpenMAVN/MAVN.Service.Tiers)
  Test | Coverage | Release | Client | Contract | Service | Job 
 :----:|:--------:|:-------:|:------:|:--------:|:-------:|:---:
