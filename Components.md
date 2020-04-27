@@ -1,6 +1,6 @@
 # Components
 ## Mobile
-### [MAVN.Mobile](https://github.com/OpenMAVN/MAVN.Mobile)|
+### [MAVN.Mobile](https://github.com/OpenMAVN/MAVN.Mobile)
 ## Front-end
 ### [MAVN.FrontEnd.BackOffice](https://github.com/OpenMAVN/MAVN.FrontEnd.BackOffice)
  Test | Coverage | Release | Service 
@@ -132,9 +132,9 @@
 :----:|:--------:|:-------:|:------:|:--------:|:-------:|:---:
 ![test](https://github.com/OpenMAVN/MAVN.Service.OperationsHistory/workflows/test/badge.svg)|[![coverage](https://coveralls.io/repos/github/OpenMAVN/MAVN.Service.OperationsHistory/badge.svg?branch=master)](https://coveralls.io/github/OpenMAVN/MAVN.Service.OperationsHistory?branch=master)|![release](https://github.com/OpenMAVN/MAVN.Service.OperationsHistory/workflows/release/badge.svg)|[![nuget](https://img.shields.io/nuget/v/MAVN.Service.OperationsHistory.Client)](https://www.nuget.org/packages/MAVN.Service.OperationsHistory.Client/)|[![nuget](https://img.shields.io/nuget/v/MAVN.Service.OperationsHistory.Contract)](https://www.nuget.org/packages/MAVN.Service.OperationsHistory.Contract/)|[![docker](https://img.shields.io/docker/v/openmavn/operations-history-service?sort=semver)](https://https://hub.docker.com/r/openmavn/operations-history-service)| - |
 ### [MAVN.Service.PartnerAPI](https://github.com/OpenMAVN/MAVN.Service.PartnerAPI)
- Test | Coverage | Release | Client | Contract | Service | Job 
-:----:|:--------:|:-------:|:------:|:--------:|:-------:|:---:
- - | - | - | - | - | - |
+| Test | Coverage | Release | Client | Contract | Service | Job |
+|:----:|:--------:|:-------:|:------:|:--------:|:-------:|:---:|
+| - | - | - | - | - | - |
 ### [MAVN.Service.PartnerManagement](https://github.com/OpenMAVN/MAVN.Service.PartnerManagement)
  Test | Coverage | Release | Client | Contract | Service | Job 
 :----:|:--------:|:-------:|:------:|:--------:|:-------:|:---:
@@ -232,5 +232,5 @@
 :----:|:--------:|:-------:|:------:|:--------:|:-------:|:---:
 ![test](https://github.com/OpenMAVN/MAVN.Service.WAMPHost/workflows/test/badge.svg)|[![coverage](https://coveralls.io/repos/github/OpenMAVN/MAVN.Service.WAMPHost/badge.svg?branch=master)](https://coveralls.io/github/OpenMAVN/MAVN.Service.WAMPHost?branch=master)|![release](https://github.com/OpenMAVN/MAVN.Service.WAMPHost/workflows/release/badge.svg)|[![nuget](https://img.shields.io/nuget/v/MAVN.Service.WAMPHost.Client)](https://www.nuget.org/packages/MAVN.Service.WAMPHost.Client/)|[![nuget](https://img.shields.io/nuget/v/MAVN.Service.WAMPHost.Contract)](https://www.nuget.org/packages/MAVN.Service.WAMPHost.Contract/)|[![docker](https://img.shields.io/docker/v/openmavn/wamphost-service?sort=semver)](https://https://hub.docker.com/r/openmavn/wamphost-service)| - |
 ## Blockchain
-### [MAVN.PrivateBlockchain.SmartContracts](https://github.com/OpenMAVN/MAVN.PrivateBlockchain.SmartContracts)|
-### [MAVN.PublicBlockchain.SmartContracts](https://github.com/OpenMAVN/MAVN.PublicBlockchain.SmartContracts)|
+### [MAVN.PrivateBlockchain.SmartContracts](https://github.com/OpenMAVN/MAVN.PrivateBlockchain.SmartContracts)
+### [MAVN.PublicBlockchain.SmartContracts](https://github.com/OpenMAVN/MAVN.PublicBlockchain.SmartContracts)
