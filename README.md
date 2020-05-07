@@ -20,3 +20,6 @@ https://t.me/mavnAllianceGroup
 
 You might reach out to contact@mavn.ch or post your questions to the Telegram Chat : https://t.me/mavnAllianceGroup
 
+## Documentation for developer
+
+https://github.com/OpenMAVN/Welcome/blob/master/Developer-Documentation.md
