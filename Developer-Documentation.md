@@ -96,8 +96,8 @@ Customers can redeem the voucher at the SME, or send it as a gift to a friend or
 
 We have one internal Kubernetes environment for OpenMAVN. Unfortunately, only internal developers have access to it. An OpenVPN client with the corresponding configuration is required for accessing it.
 
-Community developers would need to run components locally.
-[Instruction about how to do it](https://docs.google.com/document/d/1tZ3VObjTHdTDhIsGuoqyorPqvesS18lnJ99q5aKeZmA/edit?usp=sharing) is in progress.
+Community developers would need to run components locally. Follow this 
+[Instruction about how to do it](https://github.com/OpenMAVN/Welcome/blob/master/how-to-run-backend.md).
 
 
 <a name="logging-monitoring-suite"/>
